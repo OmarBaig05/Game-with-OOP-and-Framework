@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PacManGUI.GameGL.Collisions">
+    <Position X="7" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAA=</HashCode>
+      <FileName>GameGL\Collisions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacManGUI.GameGL.Enemy">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAoBCAAAAAAAAAAAIAAAABAAAAAAABAAA=</HashCode>
+      <FileName>GameGL\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PacManGUI.GameGL.Fire">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAACAAKAAAAIAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>GameGL\Fire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.GameGL.Game">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.GameGL.GameCell">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAQAQAAAAwACACIAAADgAAAAAAAAYAA=</HashCode>
+      <FileName>GameGL\GameCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.GameGL.GameGrid">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAEIAAABAAIACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\GameGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.GameGL.GameObject">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAABAAAAEgAAQBAAAEAAEAAAABA=</HashCode>
+      <FileName>GameGL\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacManGUI.GameGL.MovingObject">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\MovingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.GameGL.Player">
+    <Position X="4.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAAAAAAAAACAAAQAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PacManGUI.GameGL.randomEnemyI">
+    <Position X="1" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\randomEnemyI.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="PacMan.GameGL.GameDirection" Collapsed="true">
+    <Position X="1" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>GameGL\GameDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PacMan.GameGL.GameObjectType" Collapsed="true">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMAAAAAAQAAAABAAAAEAAAAAAABAAAAAAA=</HashCode>
+      <FileName>GameGL\GameObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
